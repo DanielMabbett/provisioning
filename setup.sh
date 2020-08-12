@@ -37,10 +37,13 @@ brew install kubectl
 echo "alias k=kubectl" >> ~/.bash_aliases
 
 # Install golang
-# todo: add golang
+brew install go
 
 # Install Ansible
 # todo: add ansible 
 
 # Install pwsh core
 # todo: add pwsh core
+
+# Install Azure CLI v2
+brew install azure-cli
